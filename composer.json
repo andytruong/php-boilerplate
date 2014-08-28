@@ -1,0 +1,15 @@
+{
+  "name": "vendor/project-name",
+  "description": "…",
+  "type": "library",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "First Last",
+      "email": "name@domain.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4"
+  }
+}

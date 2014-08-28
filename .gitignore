@@ -1,0 +1,8 @@
+.elasticbeanstalk/
+.idea
+/build/
+/bin/
+/files/
+!files/.gitkeep
+/vendor/
+/composer.phar

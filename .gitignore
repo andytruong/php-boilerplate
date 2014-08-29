@@ -6,3 +6,5 @@
 !files/.gitkeep
 /vendor/
 /composer.phar
+/resources/coverage/
+!resources/coverage/.gitkeep

@@ -1,10 +1,12 @@
+.DS_Store
 .elasticbeanstalk/
 .idea
 /build/
 /bin/
+/composer.phar
 /files/
 !files/.gitkeep
+/phpunit.xml
 /vendor/
-/composer.phar
 /resources/coverage/
 !resources/coverage/.gitkeep

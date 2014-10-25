@@ -1,6 +1,5 @@
 .DS_Store
 .elasticbeanstalk/
-.idea
 /build/
 /bin/
 /composer.phar
@@ -10,3 +9,26 @@
 /vendor/
 /resources/coverage/
 !resources/coverage/.gitkeep
+
+# Patch/diff artifacts.
+*.patch
+*.diff
+*.orig
+*.rej
+
+# Exclude IDE/Editor's project directory
+.idea
+nbproject
+*.swp
+*~
+\#*\#
+
+# Windows links.
+*.lnk
+
+# Temporary files.
+tmp*
+
+# Hidden files.
+.DS*
+.project
